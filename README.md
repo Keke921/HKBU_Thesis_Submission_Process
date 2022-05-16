@@ -25,17 +25,15 @@
 
 ## 4. 提交到Buniport (写完论文后)
 - 2提到的给Kristina发送了EEn Oral Defense申请，果断时间Kristina会发邮件通知你可以提交论文到Buniport了。
-****
-**注意**：
 
-*Kristina没通知到时候不要提交，提交了学院也不会给通过。*
+>> **注意**：
+<br> >> *Kristina没通知到时候不要提交，提交了学院也不会给通过。*
 
 - 查重：[Moodle](https://buelearning.hkbu.edu.hk/) (course GS8008 -> Turnitin assignment)。
  
-**注意**：
-*a. Moodle上有两个查重入口，1 GS8008 PG Course 和 2 GS8008 PG Course [202X-202X] (就是一个有后缀的)。2 推测可能是学院提供的让大家多几次查重机会用的，毕竟Moodle可以随便放点儿啥进去免费查重。但是最终提交到Buniport的online form上的一定要是从GS8008 PG Course （不带后缀）上下载的查重报告。*
-
-*b*
+>> **注意**：
+<br> >> *a. Moodle上有两个查重入口，1 GS8008 PG Course 和 2 GS8008 PG Course [202X-202X] (就是一个有后缀的)。2 推测可能是学院提供的让大家多几次查重机会用的，毕竟Moodle可以随便放点儿啥进去免费查重。但是最终提交到Buniport的online form上的一定要是从GS8008 PG Course （不带后缀）上下载的查重报告。*
+<br> >> *b*
 
 
 
