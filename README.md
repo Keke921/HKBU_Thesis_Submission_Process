@@ -1,5 +1,5 @@
 # 香港浸会大学学位论文提交流程及避坑提醒（中文版）
-详细英文版本见[lI Lei师兄分享](https://github.com/lileipisces/HKBUthesis)。**欢迎同学们更新及补充**
+详细英文版本见[LI Lei师兄分享](https://github.com/lileipisces/HKBUthesis)。**欢迎同学们更新及补充**
 
 主要步骤：
 
@@ -31,14 +31,14 @@
 > **注意**：<br/>
 > *a. Moodle上有两个查重入口，1 --> GS8008 PG Course 和 2 --> GS8008 PG Course [202X-202X] (就是一个有后缀的)。2 推测可能是学院提供的让大家多几次查重机会用的，毕竟Moodle可以随便放点儿啥进去免费查重。但是最终提交到Buniport的online form上的一定要是从 **GS8008 PG Course（不带后缀)** 上下载的查重报告。* <br/>
 > *b. 保险起见 2上（带后缀那个）最好也上传一个论文，和 1的有一些细微的不一样也没多大关系，我传了两个一样的文档最后1和2生成的查重报告也不一样，这是为啥我也不明白。（我第二次提交被GS拒了，说是提交的查重报告和Moddel上的不一致，因为我交的是从2下载的...）* <br/>
-> *c. 注意一定要上传完整版本的论文（b中提到的两个查重入口，提交的时候都要交完整），**Acknowledgement, Declaration, Bibliography 都要交**。（我第一次提交被学院拒了，原因说是上传查重的文档不全，我传的不带Bibliography的版本）*<br/>
+> *c. 注意一定要上传完整版本的论文（b中提到的两个查重入口，提交的时候都要交完整），**Acknowledgement, Declaration, Bibliography 都要交**。（我第一次提交被学院拒了，原因说是上传查重的文档不全，可能因为我这次上传的是不带Bibliography的版本）*<br/>
 > *d. 上传的论文记得在声明（Declaration）处签名。*<br/>
-  - 重复率过高的情况，和GS argue的方法可参考[lilei师兄提供的建议](https://github.com/lileipisces/HKBUthesis)第3条第4点。
+  - 重复率过高的情况，和GS argue的方法可参考[LI lei师兄提供的建议](https://github.com/lileipisces/HKBUthesis)第3条第4点。
 
 - 提交论文和查重报告，（如果有其他证明文件如，论文licenses等，这些证明文件需要放在一个pdf文件一起提交） 此次提交的入口是[Studies] -> 卡片处的[Online Form] -> **GTHFL - Submission of Final Thesis (for Graduation)**。提交单个文档大小限制是15Mb.
 - 等待老板、学院、GS确认。
 > **注意**：<br/>
-> *自己一般是老板确认了上传的，老板这里一般不会有问题。学院或者GS给disapprove了，会立刻收到邮件通知哪里没有通过，且在Buniport的[My online form]->[Past] 里，点击Reference ID处可以看到卡在哪里。目前我是看不到Comments，需要发邮件自己问。学院没通过可以问Kristina，GS没有通过可以发邮件给GS (hkbu_rpg@hkbu.edu.hk)或者 Ling CHOW (miulingchow@hkbu.edu.hk)*
+> *自己一般是老板确认了上传的，老板这里一般不会有问题。学院或者GS给disapprove了，会立刻收到邮件通知哪里没有通过，且在Buniport的[My online form]->[Past] 里，点击Reference ID处可以看到卡在哪里。目前我是看不到Comments，需要发邮件自己问。学院没通过可以问Kristina，GS没有通过可以发邮件给GS (hkbu_rpg@hkbu.edu.hk)或者 Ling CHOW (miulingchow@hkbu.edu.hk).*
 
 
 ## 4. 接下来的流程
