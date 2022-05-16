@@ -1,5 +1,5 @@
 # 香港浸会大学学位论文提交流程及避坑提醒（中文版）
-详细英文版本见[lilei师兄分享](https://github.com/lileipisces/HKBUthesis)。**欢迎同学们更新及补充**
+详细英文版本见[lI Lei师兄分享](https://github.com/lileipisces/HKBUthesis)。**欢迎同学们更新及补充**
 
 主要步骤：
 
@@ -29,7 +29,7 @@
 - 查重：[Moodle](https://buelearning.hkbu.edu.hk/) (course GS8008 -> Turnitin assignment)。
  
 > **注意**：<br/>
-> *a. Moodle上有两个查重入口，1 --> GS8008 PG Course 和 2 --> GS8008 PG Course [202X-202X] (就是一个有后缀的)。2 推测可能是学院提供的让大家多几次查重机会用的，毕竟Moodle可以随便放点儿啥进去免费查重。但是最终提交到Buniport的online form上的一定要是从**GS8008 PG Course（不带后缀）**上下载的查重报告。* <br/>
+> *a. Moodle上有两个查重入口，1 --> GS8008 PG Course 和 2 --> GS8008 PG Course [202X-202X] (就是一个有后缀的)。2 推测可能是学院提供的让大家多几次查重机会用的，毕竟Moodle可以随便放点儿啥进去免费查重。但是最终提交到Buniport的online form上的一定要是从 **GS8008 PG Course（不带后缀)** 上下载的查重报告。* <br/>
 > *b. 保险起见 2上（带后缀那个）最好也上传一个论文，和 1的有一些细微的不一样也没多大关系，我传了两个一样的文档最后1和2生成的查重报告也不一样，这是为啥我也不明白。（我第二次提交被GS拒了，说是提交的查重报告和Moddel上的不一致，因为我交的是从2下载的...）* <br/>
 > *c. 注意一定要上传完整版本的论文（b中提到的两个查重入口，提交的时候都要交完整），**Acknowledgement, Declaration, Bibliography 都要交**。（我第一次提交被学院拒了，原因说是上传查重的文档不全，我传的不带Bibliography的版本）*<br/>
 > *d. 上传的论文记得在声明（Declaration）处签名。*<br/>
