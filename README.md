@@ -1,7 +1,7 @@
 # 香港浸会大学学位论文提交流程及避坑提醒（中文版）
 详细英文版本见[前辈分享](https://github.com/lileipisces/HKBUthesis)
 
-##欢迎同学们随时更新
+** 欢迎同学们随时更新 **
 
 主要步骤：
 
@@ -10,15 +10,16 @@
 - [前辈提供的latex 模版](https://github.com/lileipisces/HKBUthesis/blob/master/material/titleMemo.tex)
 - [Word 模版](Thesis%20Title%20Confirmation%20Template%20(Word).docx)
 
-准备开始写论文的时候就可以发邮件了，研究生院大约会过一周左右回复一个确认文件。
+准备开始写论文的时候就可以发邮件了，然后开始写论文吧～～研究生院大约会过一周左右回复一个确认文件。
 
 
 ## 2. 审查委员会确认
 
+- 研究生院回复过确认论文题目的文件后会同时cc Kristina。Kristina会提醒指老板确认审查委员会成员及准备相关材料，同时提醒你提交[Request for Appointment of Examination Examiner and Oral Defense](https://www.comp.hkbu.edu.hk/v1/?file=1073)和你的publication list，我的是Kristina发给我一个提交的[链接](https://docs.google.com/forms/d/e/1FAIpQLScVwzqxCNt_1XsY1wuHzYH8aqngaON3Q8zZIDAyuZrgTmc23w/viewform)，准备好相关文件提交到这个链接就可以了。(还在这个链接里发现了其他计算机学院常用文档的下载链接，比如报销申请的文档。)
+- 如果着急可以自己主动发EEn Oral Defense的表格和Publication List（用邮件）给Kristina；或是GS回复很久后（超过3周）Kristina都没有提醒老板和让你提交相关材料，就自己主动发邮件吧。
 
-- Besides the [Principal Supervisor's Declaration and Appointment of Board of Examiners](https://gs.hkbu.edu.hk/f/page/464/Guidelines%20for%20the%20Format%20of%20Theses.rtf) for your supervisor to complete, students in the Department of Computer Science should also submit a [Request for Appointment of Examination Examiner and Oral Defense](https://www.comp.hkbu.edu.hk/v1/?file=1073) to the department
 
-## 3. Submission of Thesis (for Examination)
+## 3. 
 - Write your thesis with the template provided in this repository
 - After completing your thesis, make a similarity index on [Moodle](https://buelearning.hkbu.edu.hk/) (course GS8008 -> Turnitin assignment).
 - Submit your thesis and the similarity report
