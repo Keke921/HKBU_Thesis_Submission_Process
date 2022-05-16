@@ -5,7 +5,7 @@
 
 ## 1. 发邮件给研究生院确认论文题目 （写论文前）
 无固定格式，主要是说清楚自己的学号、姓名以及拟定的论文题目，一下为两个模版，供参考。
-- [LI lei师兄提供的latex 模版](https://github.com/lileipisces/HKBUthesis/blob/master/material/titleMemo.tex)
+- [LI Lei师兄提供的latex 模版](https://github.com/lileipisces/HKBUthesis/blob/master/material/titleMemo.tex)
 - [Word 模版](Thesis%20Title%20Confirmation%20Template%20(Word).docx)
 
 准备开始写论文的时候就可以发邮件了，然后开始写论文吧～～研究生院大约会过一周左右回复一个确认文件。
