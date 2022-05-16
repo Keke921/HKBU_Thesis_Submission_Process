@@ -1,13 +1,11 @@
 # 香港浸会大学学位论文提交流程及避坑提醒（中文版）
-详细英文版本见[lilei师兄分享](https://github.com/lileipisces/HKBUthesis)
-
-**欢迎同学们随时更新**
+详细英文版本见[lilei师兄分享](https://github.com/lileipisces/HKBUthesis)。**欢迎同学们更新及补充**
 
 主要步骤：
 
 ## 1. 发邮件给研究生院确认论文题目 （写论文前）
 无固定格式，主要是说清楚自己的学号、姓名以及拟定的论文题目，一下为两个模版，供参考。
-- [lilei师兄提供的latex 模版](https://github.com/lileipisces/HKBUthesis/blob/master/material/titleMemo.tex)
+- [LI lei师兄提供的latex 模版](https://github.com/lileipisces/HKBUthesis/blob/master/material/titleMemo.tex)
 - [Word 模版](Thesis%20Title%20Confirmation%20Template%20(Word).docx)
 
 准备开始写论文的时候就可以发邮件了，然后开始写论文吧～～研究生院大约会过一周左右回复一个确认文件。
@@ -20,8 +18,8 @@
 
 
 ## 3. 写论文吧
-- Xu师兄的[latex模版](https://github.com/xu-cheng/thesis)
-- 需要我的也可以告诉我，邮箱：mengkejiajia@hotmail.com（不过我就是在Xu师兄的模版上改的）
+- XU Cheng师兄的[latex模版](https://github.com/xu-cheng/thesis)
+- 需要我的也可以告诉我，邮箱：mengkejiajia@hotmail.com（不过我就是在XU师兄的模版上改的）
 
 ## 4. 提交到Buniport (写完论文后)
 - 2提到的给Kristina发送了EEn Oral Defense申请，过段时间Kristina会发邮件通知你可以提交论文到Buniport了。<br/>
@@ -45,4 +43,15 @@
 
 ## 4. 接下来的流程
 - 我还不知道，持续更新中。
+
+## 其他有用的资源
+[LI lei师兄提供的详细流程](https://github.com/lileipisces/HKBUthesis) <br/>
+[XU Cheng师兄提供的模版](https://github.com/xu-cheng/thesis)
+[HKBU学生毕业论文](https://scholars.hkbu.edu.hk/en/studentTheses/?type=%2Fdk%2Fatira%2Fpure%2Fstudentthesis%2Fstudentthesistypes%2Fstudentthesis%2Fdoc&nofollow=true&format=&organisationIds=301af8ae-4879-4ba9-843d-96c2c3f3cc2f&ordering=awardDate&descending=true)
+[HKBU COMP学生毕业论文题目](https://www.comp.hkbu.edu.hk/v1/?pid=47) (全文要自己去上一个链接里搜，有可能最近毕业的论文还搜不到。)
+
+
+## 联系我们
+- mengkejiajia@hotmail.com
+
 
