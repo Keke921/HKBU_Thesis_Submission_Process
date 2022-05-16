@@ -50,6 +50,7 @@
 [XU Cheng师兄提供的模版](https://github.com/xu-cheng/thesis)<br/>
 [HKBU学生毕业论文](https://scholars.hkbu.edu.hk/en/studentTheses/?type=%2Fdk%2Fatira%2Fpure%2Fstudentthesis%2Fstudentthesistypes%2Fstudentthesis%2Fdoc&nofollow=true&format=&organisationIds=301af8ae-4879-4ba9-843d-96c2c3f3cc2f&ordering=awardDate&descending=true)<br/>
 [HKBU COMP学生毕业论文题目](https://www.comp.hkbu.edu.hk/v1/?pid=47) (全文要自己去上一个链接里搜，有可能最近毕业的论文还搜不到。)<br/>
+待补充
 
 
 ## 联系我们
