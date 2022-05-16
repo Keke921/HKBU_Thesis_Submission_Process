@@ -1,0 +1,53 @@
+%%%%%%%%%%%%%%%
+% This Publication list example/template is based on the 
+% CV template provided by LianTze Lim (liantze@gmail.com)
+% 13 May, 2020
+%
+%\documentclass[a4paper,skipsamekey,11pt, english]{curve}
+\documentclass[class=article, crop=false,,skipsamekey,11pt, english]{curve}
+
+% Uncomment to enable Chinese; needs XeLaTeX
+%\usepackage{xeCJK}             %中文需要改成xelatex
+%\usepackage[utf8]{inputenc} 
+\usepackage{settings}
+
+% Change the fonts if you want
+\ifxetexorluatex % If you're using XeLaTeX or LuaLaTeX
+  \usepackage{fontspec} 
+  %% You can use \setmainfont etc; I'm just using these font packages here because they provide OpenType fonts for use by XeLaTeX/LuaLaTeX anyway
+  \usepackage[p,osf,swashQ]{cochineal}
+  \usepackage[medium,bold]{cabin}
+  \usepackage[varqu,varl,scale=0.9]{zi4}
+\else % If you're using pdfLaTeX or latex
+  \usepackage[T1]{fontenc}
+  \usepackage[p,osf,swashQ]{cochineal}
+  \usepackage{cabin}
+  \usepackage[varqu,varl,scale=0.9]{zi4}
+\fi
+
+%% Only needed if you want a Publication List
+\addbibresource{publications.bib}
+\excludecomment{fullonly}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\leftheader{%
+  {\LARGE\bfseries\sffamily Publication List}
+  \\
+  \par \LARGE\bfseries{Name: YOUR Nake}
+}
+
+\rightheader{~}
+
+\title{Publication list}
+\myname{Your}{Name}  %This is for highlighting your name in the publications.
+\begin{document}
+\makeheaders[c]
+
+\nocite{*}
+\printbibliography[heading={subbibliography},title={Journal Articles},type=article]
+
+\printbibliography[heading={subbibliography},title={Conference Proceedings},type=inproceedings]
+
+\end{document}
+
