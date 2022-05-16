@@ -1,15 +1,20 @@
 # 香港浸会大学学位论文提交流程及避坑提醒（中文版）
 详细英文版本见[前辈分享](https://github.com/lileipisces/HKBUthesis)
-##欢迎更新
+
+##欢迎同学们随时更新
 
 主要步骤：
 
 ## 1. 发邮件给研究生院确认论文题目
-- [latex 模版](https://github.com/lileipisces/HKBUthesis/blob/master/material/titleMemo.tex)
-- [Word 模版]()
+无固定格式，主要是说清楚自己的学号、姓名以及拟定的论文题目，一下为两个模版，供参考。
+- [前辈提供的latex 模版](https://github.com/lileipisces/HKBUthesis/blob/master/material/titleMemo.tex)
+- [Word 模版](Thesis%20Title%20Confirmation%20Template%20(Word).docx)
+
+准备开始写论文的时候就可以发邮件了，研究生院大约会过一周左右回复一个确认文件。
 
 
-## 2. Board of Examiners
+## 2. 审查委员会确认
+
 
 - Besides the [Principal Supervisor's Declaration and Appointment of Board of Examiners](https://gs.hkbu.edu.hk/f/page/464/Guidelines%20for%20the%20Format%20of%20Theses.rtf) for your supervisor to complete, students in the Department of Computer Science should also submit a [Request for Appointment of Examination Examiner and Oral Defense](https://www.comp.hkbu.edu.hk/v1/?file=1073) to the department
 
