@@ -39,7 +39,7 @@
 
 - 提交论文和查重报告，（如果有其他证明文件如，论文licenses等，这些证明文件需要放在一个pdf文件一起提交） 此次提交的入口是[Studies] -> 卡片处的[Online Form] -> **GTHFL - Submission of Final Thesis (for Graduation)**。提交单个文档大小限制是15Mb.
 - 等待老板、学院、GS确认。
-> **注意**：<br/>
+* **注意**：<br/>
  * **自己一般是老板确认了上传的，老板这里一般不会有问题。学院或者GS给disapprove了，会立刻收到邮件通知哪里没有通过，且在Buniport的[My online form]->[Past] 里，点击Reference ID处可以看到卡在哪里。目前我是看不到Comments，需要发邮件自己问。学院没通过可以问Kristina，GS没有通过可以发邮件给GS (hkbu_rpg@hkbu.edu.hk)或者 Ling CHOW (miulingchow@hkbu.edu.hk).**
 
 
