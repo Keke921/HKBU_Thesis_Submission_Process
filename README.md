@@ -24,7 +24,7 @@
 ## 4. 提交到Buniport (写完论文后)
 - 2提到的给Kristina发送了EEn Oral Defense申请，过段时间Kristina会发邮件通知你可以提交论文到Buniport了。<br/>
 > **注意**：<br/>
- * **Kristina没通知的时候先不要提交，提交了学院也不会给通过。**
+  * **Kristina没通知的时候先不要提交，提交了学院也不会给通过。**
 
 - 查重：[Moodle](https://buelearning.hkbu.edu.hk/) (course GS8008 -> Turnitin assignment)。
  
