@@ -41,16 +41,17 @@
 - 等待老板、学院、GS确认。
 > **注意**：<br/>
 >   - **自己一般是老板确认了上传的，老板这里一般不会有问题。学院或者GS给disapprove了，会立刻收到邮件通知哪里没有通过，且在Buniport的[My online form]->[Past] 里，点击Reference ID处可以看到卡在哪里。目前我是看不到Comments，需要发邮件自己问。学院没通过可以问Kristina，GS没有通过可以发邮件给GS (hkbu_rpg@hkbu.edu.hk)或者 Ling CHOW (miulingchow@hkbu.edu.hk).**
+- 都确认完后，研究生院通知缴费（examination fee）。交完可以把收据发给研究生院，告诉他们交过了。
 
 
-## 4. 接下来的流程
+## 5. 接下来的流程
 - 我还不知道，持续更新中。
 
 ## 其他有用的资源
-[LI Lei师兄提供的详细流程](https://github.com/lileipisces/HKBUthesis) <br/>
-[XU Cheng师兄提供的模版](https://github.com/xu-cheng/thesis)<br/>
-[HKBU学生毕业论文](https://scholars.hkbu.edu.hk/en/studentTheses/?type=%2Fdk%2Fatira%2Fpure%2Fstudentthesis%2Fstudentthesistypes%2Fstudentthesis%2Fdoc&nofollow=true&format=&organisationIds=301af8ae-4879-4ba9-843d-96c2c3f3cc2f&ordering=awardDate&descending=true)<br/>
-[HKBU COMP学生毕业论文题目](https://www.comp.hkbu.edu.hk/v1/?pid=47) (全文要自己去上一个链接里搜，有可能最近毕业的论文还搜不到。)<br/>
+- [LI Lei师兄提供的详细流程](https://github.com/lileipisces/HKBUthesis) <br/>
+- [XU Cheng师兄提供的模版](https://github.com/xu-cheng/thesis)<br/>
+- [HKBU学生毕业论文](https://scholars.hkbu.edu.hk/en/studentTheses/?type=%2Fdk%2Fatira%2Fpure%2Fstudentthesis%2Fstudentthesistypes%2Fstudentthesis%2Fdoc&nofollow=true&format=&organisationIds=301af8ae-4879-4ba9-843d-96c2c3f3cc2f&ordering=awardDate&descending=true)<br/>
+- [HKBU COMP学生毕业论文题目](https://www.comp.hkbu.edu.hk/v1/?pid=47) (全文要自己去上一个链接里搜，有可能最近毕业的论文还搜不到。)<br/>
 待补充
 
 
