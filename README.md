@@ -50,7 +50,7 @@
 这一步比较简单，没什么特别要注意的。
 
 - Kristian 安排答辩前会通知提交一个论文摘要。
-- 答辩完之后根据意见修改论文，一般给小修，根据意见简单修改一下就行了。然后总结修改的地方，参考师兄给的模板，填写 [Summary of Changes Template](https://github.com/lileipisces/HKBUthesis/blob/master/material/summaryOfChanges.docx)和[Confirmation Memo Template](https://github.com/lileipisces/HKBUthesis/blob/master/material/confirmationMemo.doc)。写完和论文一起发给老板签字确认，张老师一般要求发两份，1.标记处修改处；2。无标记的修改论文。
+- 答辩完之后根据意见修改论文，一般给小修，根据意见简单修改一下就行了。然后总结修改的地方，参考师兄给的模板，填写 [Summary of Changes Template](https://github.com/lileipisces/HKBUthesis/blob/master/material/summaryOfChanges.docx)和[Confirmation Memo Template](https://github.com/lileipisces/HKBUthesis/blob/master/material/confirmationMemo.doc)。写完和论文一起发给老板签字确认，张老师一般要求发两份，1.标记修改处的论文, 2. 无标记的修改后的论文。
 - 把修1.改后的论文, 2.summary of changes, 3. confirmation memo 发给chair of your oral examination签字确认。
 - 把论文和confirmation memo提交到Submission of Revised Thesis (for Format Check)就可以了。之后研究生院会发一个邮件，通知修改的地方和提交Submission of Final Thesis (for Graduation)。
 
